@@ -11,4 +11,5 @@ A website that offers workout guidance!
 https://rrayachhetri.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Rabin Raya Chhetri
-### © 2019 Horiseon Social Solution Services, Inc.
+### Read Our Privacy Policy
+© 2019 Run Buddy, Inc
