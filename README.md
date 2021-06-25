@@ -1,15 +1,16 @@
-# Rub Buddy Webpage
+# Run Buddy, Inc
 
-
-# Run-Buddy
 ## Purpose
-A website that offers workout guidance!
-## Built With 
+A website that offers fitness training services. 
+
+## Built With
 * HTML
 * CSS
+
 ## Website
 https://rrayachhetri.github.io/run-buddy/
+
 ## Contribution
 Made with ❤️ by Rabin Raya Chhetri
-### Read Our Privacy Policy
-© 2019 Run Buddy, Inc
+
+### ©️2019 Run Buddy, Inc 
